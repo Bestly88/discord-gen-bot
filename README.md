@@ -22,10 +22,10 @@ Before you try to start the bot, you need to complete the `config.json` file in 
 #### Default
 ```json
 {
-    "token": "",
-    "prefix": "gen!",
-    "genChannel": "",
-    "genCooldown": "1000",
+    "token": "OTgzNTQ4NTczODM4ODcyNjQ3.Gr91-J.hhXSUycWW8XWlXVeUANGGnHS-OzFJ9tmZ6m_D8",
+    "prefix": ".gen",
+    "genChannel": "970702929604526081",
+    "genCooldown": "10",
     "color": {
         "green": "0x57F287",
         "yellow": "0xFEE75C",
